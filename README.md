@@ -51,6 +51,7 @@ Digite nos devidos campos a Equipe e a Atividade.
 - ### Motivo:
     Aplicações gráficas que utilizam wxWidgets podem não ser exibidas corretamente no terminal integrado do VSCode. Recomenda-se utilizar um terminal externo para rodar a aplicação.
 
+O programa não utiliza acentuação por questões de compatibilidade com a codificação de caracteres do wxWidgets.
 
 ## Funcionalidades: 
 
