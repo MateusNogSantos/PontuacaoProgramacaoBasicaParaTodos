@@ -44,3 +44,11 @@ Digite nos devidos campos a Equipe e a Atividade.
 
 - Linux
 
+## Funcionalidades: 
+
+- Ordenação automática das equipes por pontuação.
+
+- Simplificação da contagem de pontos.
+
+- Informação clara e organizada.
+
