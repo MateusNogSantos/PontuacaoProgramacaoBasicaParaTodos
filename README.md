@@ -11,7 +11,7 @@
 ### Leitura de equipes:
 Digite a quantidade de equipes que irá compor o evento e confirme.
 
-![](imageFirstFrame.png)
+![](img/imageFirstFrame.png)
 
 ### Leitura de atividades:
 
@@ -25,7 +25,7 @@ Digite nos devidos campos a Equipe e a Atividade.
 - 1 -> Conclusão de um exercício fácil.
 - 2 -> Conclusão de um exercício médio.
 
-![](imageSecondFrame.png)
+![](img/imageSecondFrame.png)
 
 ## Como Compilar?
 
