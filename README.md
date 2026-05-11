@@ -44,6 +44,14 @@ Digite nos devidos campos a Equipe e a Atividade.
 
 - Linux
 
+## AVISOS
+
+### Abrir exclusivamente pelo terminal.
+
+- ### Motivo:
+    Aplicações gráficas que utilizam wxWidgets podem não ser exibidas corretamente no terminal integrado do VSCode. Recomenda-se utilizar um terminal externo para rodar a aplicação.
+
+
 ## Funcionalidades: 
 
 - Ordenação automática das equipes por pontuação.
@@ -51,4 +59,3 @@ Digite nos devidos campos a Equipe e a Atividade.
 - Simplificação da contagem de pontos.
 
 - Informação clara e organizada.
-
